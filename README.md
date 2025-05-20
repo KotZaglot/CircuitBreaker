@@ -1,1 +1,1 @@
-# CircuitBreaker
+Проект был разделён на два отдельных приложения, где Client-сервис вызывает Server по HTTP, а сам Client триггерится через Postman.
